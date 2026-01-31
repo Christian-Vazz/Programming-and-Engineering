@@ -1,0 +1,1170 @@
+# 🎯 Mapa Mental Completo – ESPCEX e Petrobras (Integrado)
+
+## 🎖️ ESPCEX – Conteúdos Oficiais
+- ⚛️ FÍSICA ESPCEX
+  - Mecânica
+    - Introdução ao método científico na Física
+    - Conceitos básicos de cinemática
+    - Movimento Uniforme (MU)
+    - Movimento Uniformemente Variado (MUV)
+    - Movimentos sob ação da gravidade
+    - Movimentos circulares
+    - Gráficos da cinemática
+    - Composição de movimentos
+    - Cinemática vetorial
+  - Dinâmica
+    - Energia, Trabalho, Impulso
+    - Potência, Rendimento
+    - Quantidade de movimento
+    - Choques mecânicos
+    - Estática de ponto material
+    - Estática de corpo extenso rígido
+    - Hidrostática
+    - Princípios de conservação
+    - Leis de Kepler
+    - Gravitação universal
+  - Termologia
+    - Conceitos fundamentais de termologia
+    - Termometria
+    - Calorimetria
+    - Mudanças de fase
+    - Diagramas de fase
+    - Propagação do calor
+    - Dilatação térmica de sólidos e líquidos
+    - Gases ideais
+    - Termodinâmica
+  - Óptica
+    - Princípios da óptica geométrica
+    - Reflexão da luz
+    - Espelho plano
+    - Espelhos esféricos
+    - Refração luminosa
+    - Lentes esféricas
+    - Instrumentos ópticos
+    - Olho humano e defeitos da visão
+  - Ondas
+    - Movimento harmônico simples
+    - Conceitos básicos de ondas e pulsos
+    - Reflexão, refração, difração
+    - Interferência, polarização
+    - Ondas sonoras
+    - Efeito Doppler
+  - Eletricidade
+    - Carga elétrica
+    - Princípios da eletrostática
+    - Processos de eletrização
+    - Força elétrica
+    - Campo elétrico
+    - Potencial elétrico
+    - Trabalho da força elétrica
+    - Energia potencial elétrica
+    - Condutores em equilíbrio eletrostático
+    - Capacidade elétrica
+    - Corrente elétrica
+    - Potência e energia na corrente elétrica
+    - Resistores, resistência elétrica
+    - Associação de resistores
+    - Associação de capacitores
+    - Energia armazenada nos capacitores
+    - Aparelhos de medição elétrica
+    - Geradores e receptores elétricos
+    - Leis de Kirchhoff
+    - Conceitos iniciais do magnetismo
+    - Campo magnético
+    - Força magnética
+    - Indução eletromagnética
+    - Corrente alternada
+    - Transformadores
+    - Ondas eletromagnéticas
+
+- 🧪 QUÍMICA ESPCEX
+  - Matéria e substância
+  - Propriedades gerais e específicas
+  - Estados físicos da matéria e características
+  - Caracterização e propriedades
+  - Diagrama de mudança de estados físicos
+  - Misturas e tipos de misturas
+  - Processos de separação de misturas
+  - Sistemas
+  - Fases e separação de fases
+  - Substâncias simples e compostas
+  - Substâncias puras
+  - Transformações da matéria
+  - Unidades de matéria
+  - Energia e meio-ambiente
+  - Grandezas e unidades de medida
+    - Massa
+    - Volume
+    - Temperatura
+    - Pressão
+    - Densidade
+  - Estrutura Atômica Moderna
+    - Introdução à Química
+    - História da química
+    - Evolução dos modelos atômicos
+    - Teorias atômicas
+    - Elementos químicos
+    - O átomo e partículas principais
+    - Núcleo do átomo
+    - Número atômico e número de massa
+    - Íons
+    - Isóbaros, isótonos, isótopos, isoeletrônicos
+    - Configuração eletrônica
+    - Eletrosfera
+    - Diagrama de Pauling
+    - Regra de Hund (Princípio de exclusão de Pauli)
+    - Números quânticos
+    - Leis ponderais
+  - Classificação Periódica
+    - Histórico da classificação periódica
+    - Tabela periódica
+    - Organização da tabela periódica
+    - Elementos químicos, grupos, famílias, períodos
+    - Propriedades periódicas
+      - Raio atômico
+      - Energia de ionização
+      - Afinidade eletrônica
+      - Eletropositividade e eletronegatividade
+      - Reatividade
+    - Classificação e propriedades dos elementos
+  - Ligações Químicas
+    - Tipos de ligações químicas
+      - Ligações iônicas
+      - Ligações covalentes
+      - Ligações metálicas
+    - Fórmulas estruturais
+    - Reatividade dos metais
+    - Propriedades das substâncias moleculares, iônicas e metálicas
+    - Estrutura das substâncias moleculares, iônicas e metálicas
+    - Compostos Iônicos e Moleculares
+    - Geometria molecular
+    - Polaridade das moléculas
+    - Forças intermoleculares
+    - Número de oxidação
+    - Polaridade e solubilidade
+    - Estado físico e ligações intermoleculares
+    - Temperaturas de fusão e ebulição
+    - Relação entre polaridade e propriedades físico-químicas
+  - Funções Inorgânicas
+    - Ácidos, bases, sais e óxidos
+    - Nomenclaturas
+    - Reações
+    - Propriedades
+    - Formulação e classificação
+    - Definições e conceitos teóricos
+    - Efeitos ambientais
+  - Reações Químicas
+    - Tipos de reações químicas
+    - Oxidorredução
+    - Equações químicas
+    - Previsão e condições de ocorrência das reações
+    - Balanceamento de equações químicas
+      - Método da tentativa
+      - Método de oxirredução
+      - Método íon-elétron
+    - Classificação de reações químicas
+  - Grandezas Químicas
+    - Relações de massa
+    - Outras relações químicas
+    - Massas atômicas e moleculares
+    - Massa molar
+    - Mol e quantidade de matéria
+    - Volume molar
+    - Constante e número de Avogadro
+    - Determinação da quantidade de matéria
+  - Estequiometria
+    - Tipos de fórmulas
+    - Aspectos quantitativos das reações químicas
+    - Leis ponderais
+    - Leis volumétricas
+    - Cálculos estequiométricos
+    - Reagente limitante de uma reação
+    - Leis químicas
+    - Reações com substâncias impuras
+    - Rendimento de reação
+  - Gases
+    - Características gerais dos gases
+    - Teoria cinética dos gases
+    - Variáveis de estado dos gases
+    - Transformações gasosas
+    - Equação geral dos gases ideais e dos gases reais
+    - Leis de Boyle e de Gay-Lussac
+    - Equação de Clapeyron
+    - Quantidade de matéria e equação de estado
+    - Princípio de Avogadro
+    - Energia cinética média
+    - Misturas gasosas
+    - Pressão parcial
+    - Volume parcial
+    - Lei de Dalton
+    - Difusão gasosa
+    - Noções de gases reais e liquefação
+    - Densidade dos gases
+  - Termoquímica
+    - Poder calorífico
+    - Cálculo de calores de reações
+    - Reações endotérmicas e exotérmicas
+    - Relação entre matéria e calor
+    - Entalpia e tipos de entalpia
+    - Lei de Hess
+    - Determinação da variação de entalpia (ΔH)
+    - Representações gráficas em termoquímica
+    - Equações termoquímicas
+    - Calor ou entalpia em reações químicas
+    - Cálculos envolvendo entalpia
+    - Variação de calor nas mudanças de estado
+    - Energia de ligação
+    - Cálculos com energia de ligação
+    - Entropia
+    - Energia livre
+  - Cinética
+    - Velocidade das reações
+    - Teoria da colisão
+    - Condições para ocorrência de reações
+    - Tipos de velocidade de reação
+    - Fatores que afetam a velocidade das reações
+    - Cálculos envolvendo velocidade da reação
+    - Lei da velocidade de reações
+  - Soluções
+    - Definição e classificação das soluções
+    - Tipos de soluções
+    - Solubilidade
+    - Curvas de solubilidade
+    - Aspectos quantitativos das soluções
+      - Concentração comum
+      - Concentração molar ou molaridade
+      - Normalidade
+      - Molalidade
+      - Fração molar
+      - Título
+      - Densidade
+    - Relação entre essas grandezas
+    - Diluição
+    - Misturas de soluções
+    - Análise volumétrica (titulometria)
+  - Equilíbrio Químico
+    - Sistemas em equilíbrio
+    - Reações reversíveis
+    - Constantes de equilíbrio
+    - Cálculo da constante de equilíbrio
+    - Quociente de reação
+    - Deslocamento de equilíbrios
+    - Princípio de Le Chatelier
+    - Equilíbrios iônicos
+      - Constantes de ionização
+      - Lei de diluição de Ostwald
+      - Grau de equilíbrio
+      - Grau de ionização
+      - Efeito do íon comum
+    - Hidrólise
+      - Hidrólise dos sais
+    - Equilíbrios iônicos na água
+      - Produto iônico da água
+      - pH e pOH
+    - Produto de solubilidade
+    - Reações envolvendo gases
+    - Equilíbrios em líquidos e gases
+    - Catalisadores
+    - Indicadores
+    - Soluções ácidas e básicas
+    - Acidez e basicidade em soluções
+    - Constantes de hidrólise
+    - Soluções-tampão
+  - Eletroquímica
+    - Número de oxidação (NOx)
+    - Cálculo e determinação de NOx
+    - Conceito de ânodo, cátodo e polaridade dos eletrodos
+    - Processos de oxidação e redução
+    - Equacionamento
+    - Agentes redutores e oxidantes
+    - Identificação das espécies redutoras e oxidantes
+    - Aplicação da tabela de potenciais-padrão
+    - Células galvânicas
+    - Pilhas e baterias
+    - Montagem de pilhas
+    - Potencial de pilhas
+    - Cálculos de voltagem de pilhas
+    - Espontaneidade de reações
+    - Equação de Nernst
+    - Corrosão
+    - Métodos protetivos
+    - Revestimentos
+    - Eletrólise
+      - Células eletrolíticas
+      - Aspectos quantitativos da eletrólise
+      - Eletrólise com eletrodos ativos e inertes
+      - Tipos de eletrólises
+    - Leis de Faraday
+    - Obtenção de metais
+  - Radioatividade
+    - Origem e propriedade das principais radiações
+    - Leis da radioatividade
+    - Detecção das radiações
+    - Séries radioativas
+    - Cinética das radiações e constantes radioativas
+    - Transmutações de elementos naturais
+    - Fissão e fusão nuclear
+    - Uso de isótopos radioativos
+    - Efeitos das radiações
+  - Propriedades coligativas
+    - Propriedades físicas das substâncias
+    - Pressão de vapor, influência da temperatura
+    - Temperatura de fusão e ebulição
+    - Tonoscopia
+    - Ebulioscopia
+    - Crioscopia
+    - Osmose
+    - Pressão osmótica
+    - Osmose reversa
+  - Princípios da química orgânica
+    - Conceitos
+    - Propriedades fundamentais do átomo de carbono
+    - Tetravalência do carbono
+    - Compostos orgânicos
+    - Ligações em compostos orgânicos
+    - Tipos de fórmulas
+    - Fórmulas estruturais
+    - Séries homólogas
+    - Hibridização de orbitais
+    - Análise orgânica elementar
+    - Determinação de fórmulas moleculares
+    - Formação
+    - Nomenclaturas de compostos orgânicos
+    - Cadeias carbônicas
+    - Classificações do carbono
+    - Classificação das cadeias carbônicas e ligações
+    - Classificações de compostos orgânicos
+    - Todas as funções orgânicas
+    - Derivados de compostos orgânicos
+    - Organometálicos
+    - Compostos cíclicos, aromáticos e alifáticos
+    - Compostos de funções mistas
+    - Reconhecimento de função orgânica
+    - Propriedades físicas e químicas de compostos orgânicos
+    - Todas as reações orgânicas
+    - Grupos orgânicos substituintes e radicais
+    - Dirigência de grupos substituintes
+    - Efeitos eletrônicos
+    - Isomerias de compostos orgânicos
+    - Cisão de ligações químicas
+    - Polímeros e reações de polimerização
+    - Métodos de obtenção de compostos orgânicos
+    - Biomoléculas
+    - Fontes e usos de compostos orgânicos
+    - Petróleo e derivados
+    - Biocombustíveis
+
+- 🌍 GEOGRAFIA ESPCEX
+  - Geografia Geral
+    - Localizando-se no espaço
+    - Orientação e localização: coordenadas geográficas e fusos horários
+    - Cartografia
+      - Cartografia e visões de mundo
+      - Formas de representação da superfície terrestre
+      - Projeções cartográficas
+      - Escalas e convenções cartográficas
+    - Espaço Natural
+      - Estrutura e dinâmica da Terra
+      - Evolução geológica
+      - Deriva continental
+      - Placas tectônicas
+      - Dinâmica da crosta terrestre
+      - Tectonismo, vulcanismo, intemperismo
+      - Tipos de rochas e solos
+      - Formas de relevo
+      - Recursos minerais
+      - Superfícies líquidas
+      - Oceanos e mares
+      - Hidrografia
+      - Correntes marinhas – tipos e influência
+      - Utilização dos recursos hídricos
+      - Situações hidroconflitivas
+    - Dinâmica da atmosfera
+      - Camadas e características
+      - Composição
+      - Anomalias: El Niño, La Niña
+      - Buraco na camada de ozônio
+      - Aquecimento global
+      - Elementos e fatores do clima
+      - Tipos climáticos
+    - Domínios naturais
+      - Distribuição da vegetação
+      - Características das grandes paisagens naturais
+    - Impactos ambientais
+      - Poluição atmosférica
+      - Erosão, assoreamento
+      - Poluição dos recursos hídricos
+      - Questão da biodiversidade
+    - Espaço Político e Econômico
+      - Indústria
+        - Processo de industrialização
+        - Primeira, segunda e terceira revolução industrial
+        - Tipos de indústria
+        - Concentração e dispersão industrial
+        - Conglomerados transnacionais
+        - Novos fatores de localização industrial
+        - Fontes de energia e questão energética
+        - Impactos ambientais
+      - Agropecuária
+        - Sistemas agrícolas
+        - Estrutura agrária
+        - Uso da terra
+        - Agricultura e meio ambiente
+        - Produção agropecuária
+        - Comércio mundial de alimentos
+        - Questão da fome
+      - Globalização e circulação
+        - Fluxos financeiros
+        - Transportes
+        - Fluxos de informação
+        - Meio tecnocientífico-informacional
+        - Comércio mundial
+        - Blocos econômicos
+        - Conflitos étnicos
+        - Migrações internacionais
+        - Divisão Internacional do Trabalho (DIT) e trocas desiguais
+      - Nação e Território
+        - Estados territoriais e Estados nacionais
+        - Organização do Estado Nacional
+        - Poder global, nova ordem mundial, fronteiras estratégicas
+    - Espaço Humano
+      - Demografia
+        - Teorias demográficas
+        - Estrutura da população
+        - Crescimento demográfico
+        - Transição demográfica e migrações
+      - Urbanização
+        - Processo de urbanização
+        - Espaço urbano e problemas urbanos
+      - Principais indicadores socioeconômicos
+  - Geografia do Brasil
+    - Espaço Natural
+      - Características gerais do território brasileiro
+      - Posição geográfica
+      - Limites e fusos horários
+      - Geomorfologia
+        - Origem, formas e classificações do relevo
+        - Aroldo de Azevedo, Aziz Ab'Saber, Jurandyr Ross
+      - Estrutura geológica
+      - Atmosfera e climas
+        - Fenômenos climáticos
+        - Climais no Brasil
+      - Domínios naturais
+        - Distribuição da vegetação
+        - Características dos domínios morfoclimáticos
+        - Aproveitamento econômico
+        - Problemas ambientais
+      - Recursos hídricos
+        - Bacias hidrográficas
+        - Aquíferos
+        - Hidrovias
+        - Degradação ambiental
+    - Espaço Econômico
+      - Formação do território nacional
+      - Economia colonial e expansão do território
+      - Da cafeicultura ao Brasil urbano-industrial
+      - Integração territorial
+      - Industrialização pós-Segunda Guerra Mundial
+        - Modelo de substituição das importações
+        - Abertura para investimentos estrangeiros
+        - Dinâmica espacial da indústria
+        - Polos industriais
+        - Indústria nas diferentes regiões brasileiras
+        - Reestruturação produtiva
+      - Aproveitamento econômico dos recursos naturais
+        - Recursos minerais
+        - Fontes de energia e meio ambiente
+        - Setor mineral e grandes projetos de mineração
+      - Agricultura brasileira
+        - Dinâmicas territoriais da economia rural
+        - Estrutura fundiária
+        - Relações de trabalho no campo
+        - Modernização da agricultura
+        - Êxodo rural
+        - Agronegócio
+        - Produção agropecuária brasileira
+      - Comércio
+        - Globalização e economia nacional
+        - Comércio exterior
+        - Integração regional (Mercosul e América do Sul)
+        - Eixos de circulação e custos de deslocamento
+    - Espaço Político
+      - Formação territorial
+      - Território, fronteiras, faixa de fronteiras
+      - Mar territorial e ZEE
+      - Estrutura político-administrativa
+        - Estados, municípios, distrito federal, territórios federais
+      - Divisão regional segundo o IBGE
+      - Complexos regionais
+      - Políticas públicas
+    - Espaço Humano
+      - Demografia
+        - Transição demográfica
+        - Crescimento populacional
+        - Estrutura etária
+        - Política demográfica
+        - Mobilidade espacial (migrações internas e externas)
+      - Mercado de trabalho
+        - Estrutura ocupacional
+        - Participação feminina
+        - Desenvolvimento humano
+        - Indicadores socioeconômicos
+      - Urbanização brasileira
+        - Processo de urbanização
+        - Rede urbana
+        - Hierarquia urbana
+        - Regiões metropolitanas
+        - Regiões Integradas de Desenvolvimento (RIDEs)
+        - Espaço urbano e problemas urbanos
+
+- 📜 HISTÓRIA ESPCEX
+  - Sociedade Feudal (séculos V ao XV)
+  - Renascimento Comercial e Urbano
+  - Estados Nacionais Europeus da Idade Moderna
+  - Absolutismo e Mercantilismo
+  - Expansão Marítima Europeia
+  - Renascimento Cultural
+    - Humanismo
+    - Reformas Religiosas
+  - Montagem da Colonização Europeia na América
+    - Sistemas Coloniais Espanhol, Francês, Inglês, Países Baixos
+    - Sistema Colonial Português na América
+      - Estrutura Político-Administrativa
+      - Estrutura socioeconômica
+      - Invasões estrangeiras
+      - Expansão territorial
+      - Rebeliões coloniais
+    - Movimentos Emancipacionistas
+      - Conjuração Mineira
+      - Conjuração Baiana
+  - Iluminismo
+    - Despotismo Esclarecido
+    - Revoluções Inglesas (século XVII)
+    - Revolução Industrial (séculos XVIII a XX)
+    - Independência dos Estados Unidos da América
+    - Revolução Francesa
+    - Restauração
+    - Congresso de Viena
+    - Santa Aliança
+  - Brasil Imperial
+    - Processo da independência do Brasil
+    - Período Joanino
+    - Primeiro Reinado
+    - Período Regencial
+    - Segundo Reinado
+    - Crise da Monarquia
+    - Proclamação da República
+  - Pensamento e Ideologia no Século XIX
+    - Idealismo Romântico
+    - Socialismo Utópico
+    - Socialismo Científico
+    - Cartismo
+    - Doutrina Social da Igreja
+    - Liberalismo
+    - Anarquismo
+    - Evolucionismo
+    - Positivismo
+  - Mundo na Época da Primeira Guerra Mundial
+    - Imperialismo e antecedentes da Primeira Guerra Mundial
+    - Primeira Guerra Mundial
+    - Consequências da Primeira Guerra Mundial
+  - República Velha no Brasil
+    - Conflitos brasileiros durante a República Velha
+  - Mundo na Época da Segunda Guerra Mundial
+    - Período entre-guerras
+    - Segunda Guerra Mundial
+    - Brasil na Era Vargas
+    - Participação do Brasil na Segunda Guerra Mundial
+  - Mundo na Guerra Fria
+    - Reconstrução da Europa e do Japão
+    - Surgimento do mundo bipolar
+    - Conflitos da Guerra Fria
+      - Guerra da Coréia (1950 – 1953)
+      - Guerra do Vietnã (1961 – 1975)
+      - Conflitos árabes-israelenses (1948 – 1974)
+    - Descolonização da África e da Ásia
+  - República Brasileira (1945 – 1985)
+  - Mundo no Final do século XX e Início do século XXI
+    - Declínio e queda do socialismo
+      - Alemanha, Polônia, Hungria, ex-Tchecoslováquia
+      - Romênia, Bulgária, Albânia, ex-Iugoslávia
+      - Ex-União Soviética
+    - Conflitos do final do século XX
+      - Guerra das Malvinas (1982)
+      - Guerra Irã-Iraque (1980 – 1989)
+      - Guerra do Afeganistão (1979 – 1989)
+      - Guerra Civil no Afeganistão (1989 – 2001)
+      - Guerra do Golfo (1991)
+      - Guerra na África (1977 – 1988)
+      - Guerra Civil na Somália (1991)
+    - 11 de Setembro de 2001
+      - Nova Guerra no Afeganistão
+    - Crises e recessão em escala mundial (primeiras décadas século XXI)
+    - Ascensão do Neoliberalismo
+    - Crise do Sistema Socialista
+    - Renascimento dos movimentos nacionalistas
+    - Globalização diante da situação atual
+  - República Brasileira de 1985 até os dias atuais
+
+- 🇬🇧 INGLÊS ESPCEX
+  - Compreensão geral de textos
+  - Compreensão específica de expressões, frases e palavras
+  - Estruturas gramaticais
+    - Adjectives
+    - Adverbs
+    - Nouns
+    - Articles
+    - Conjunctions
+    - Modal auxiliaries
+    - Prepositions
+    - Pronouns
+    - Possessive adjectives
+    - Determiners
+    - Quantifiers
+    - Verb forms
+    - Verb tenses
+    - Active/passive voice
+    - Wh-questions
+
+- 📐 MATEMÁTICA ESPCEX
+  - Teoria dos Conjuntos e Conjuntos Numéricos
+    - Representação de conjuntos
+    - Subconjuntos
+    - Operações: união, interseção, diferença, complementar
+    - Conjunto universo e conjunto vazio
+    - Conjunto dos números naturais e inteiros
+      - Operações fundamentais
+      - Números primos
+      - Fatoração
+      - Número de divisores
+      - Máximo divisor comum
+      - Mínimo múltiplo comum
+    - Conjunto dos números racionais
+      - Operações fundamentais
+      - Razão, proporção e propriedades
+      - Números direta e indiretamente proporcionais
+    - Conjunto dos números reais
+      - Operações fundamentais
+      - Módulo
+      - Representação decimal
+      - Operações com intervalos reais
+    - Números complexos
+      - Operações
+      - Módulo
+      - Conjugado
+      - Representações algébrica e trigonométrica
+      - Representação no plano de Argand-Gauss
+      - Potenciação e radiciação
+      - Extração de raízes
+      - Fórmulas de Moivre
+      - Resolução de equações binomiais e trinomiais
+  - Funções
+    - Definição
+    - Domínio, imagem, contradomínio
+    - Funções injetoras, sobrejetoras, bijetoras
+    - Funções pares e ímpares
+    - Funções periódicas
+    - Funções compostas
+    - Relações
+    - Raiz de uma função
+    - Função constante
+    - Função crescente
+    - Função decrescente
+    - Função definida por mais de uma sentença
+    - Funções y=k/x, y=√x e seus gráficos
+    - Função inversa e seu gráfico
+    - Translação, reflexão de funções
+    - Função Linear, Função Afim e Função Quadrática
+      - Gráficos
+      - Domínio, imagem e características
+      - Variações de sinal
+      - Máximos e mínimos
+      - Inequação produto e inequação quociente
+    - Função Modular
+      - Conceito e propriedades do módulo de um número real
+      - Definição, gráfico, domínio e imagem da função modular
+      - Equações modulares
+      - Inequações modulares
+    - Função Exponencial
+      - Gráficos, domínio, imagem e características
+      - Logaritmos decimais
+      - Característica e mantissa
+      - Equações e inequações exponenciais
+    - Função Logarítmica
+      - Definição de logaritmo
+      - Propriedades operatórias
+      - Gráficos, domínio, imagem e características
+      - Equações e inequações logarítmicas
+  - Trigonometria
+    - Trigonometria no triângulo (retângulo e qualquer)
+    - Lei dos senos e lei dos cossenos
+    - Unidades de medidas de arcos e ângulos: grau e radiano
+    - Círculo trigonométrico
+    - Razões trigonométricas
+    - Redução ao 1º quadrante
+    - Funções trigonométricas
+    - Transformações
+    - Identidades trigonométricas fundamentais
+    - Equações e inequações trigonométricas no conjunto dos números reais
+    - Fórmulas de adição de arcos
+    - Arcos duplos
+    - Arco metade
+    - Transformação em produto
+    - Funções trigonométricas inversas e seus gráficos
+    - Arcos notáveis
+    - Sistemas de equações e inequações trigonométricas
+    - Resolução de triângulos
+  - Contagem e Análise Combinatória
+    - Fatorial: definição e operações
+    - Princípios multiplicativo e aditivo da contagem
+    - Arranjos, combinações e permutações
+    - Binômio de Newton
+      - Desenvolvimento
+      - Coeficientes binomiais
+      - Termo geral
+  - Probabilidade
+    - Experimento aleatório
+    - Experimento amostral
+    - Espaço amostral e evento
+    - Probabilidade em espaços amostrais equiprováveis
+    - Probabilidade da união de dois eventos
+    - Probabilidade condicional
+    - Propriedades das probabilidades
+    - Probabilidade de dois eventos sucessivos
+    - Experimentos binomiais
+  - Matrizes, Determinantes e Sistemas Lineares
+    - Operações com matrizes
+      - Adição
+      - Multiplicação por escalar
+      - Transposição
+      - Produto
+    - Matriz inversa
+    - Determinante de uma matriz: definição e propriedades
+    - Sistemas de equações lineares
+  - Sequências Numéricas e Progressões
+    - Sequências numéricas
+    - Progressões aritméticas
+      - Termo geral
+      - Soma dos termos
+      - Propriedades
+    - Progressões geométricas finitas e infinitas
+      - Termo geral
+      - Soma dos termos
+      - Propriedades
+  - Geometria Espacial de Posição
+    - Posições relativas entre duas retas
+    - Posições relativas entre dois planos
+    - Posições relativas entre reta e plano
+    - Perpendicularidade entre duas retas
+    - Perpendicularidade entre dois planos
+    - Perpendicularidade entre reta e plano
+    - Projeção ortogonal
+  - Geometria Espacial Métrica
+    - Poliedros convexos
+      - Poliedros de Platão
+      - Poliedros regulares: definições, propriedades
+      - Relação de Euler
+    - Prismas
+      - Conceito, elementos, classificação
+      - Áreas e volumes
+      - Troncos
+    - Pirâmide
+      - Conceito, elementos, classificação
+      - Áreas e volumes
+      - Troncos
+    - Cilindro
+      - Conceito, elementos, classificação
+      - Áreas e volumes
+      - Troncos
+    - Cone
+      - Conceito, elementos, classificação
+      - Áreas e volumes
+      - Troncos
+    - Esfera
+      - Elementos
+      - Seção da esfera
+      - Área, volumes
+      - Partes da esfera
+    - Projeções
+    - Sólidos de revolução
+    - Inscrição e circunscrição de sólidos
+  - Geometria analítica plana
+    - Ponto
+      - Plano cartesiano
+      - Distância entre dois pontos
+      - Ponto médio de um segmento
+      - Condição de alinhamento de três pontos
+    - Reta
+      - Equações geral e reduzida
+      - Interseção de retas
+      - Paralelismo e perpendicularidade
+      - Ângulo entre duas retas
+      - Distância entre ponto e reta
+      - Distância entre duas retas
+      - Bissetrizes do ângulo entre duas retas
+      - Área de um triângulo
+      - Inequações do primeiro grau com duas variáveis
+    - Circunferência
+      - Equações geral e reduzida
+      - Posições relativas entre ponto e circunferência
+      - Posições relativas entre reta e circunferência
+      - Posições relativas entre duas circunferências
+      - Problemas de tangência
+      - Equações e inequações do segundo grau com duas variáveis
+    - Elipse
+      - Definição, equação
+      - Posições relativas entre ponto e elipse
+      - Posições relativas entre reta e elipse
+    - Hipérbole
+      - Definição, equação da hipérbole
+      - Posições relativas entre ponto e hipérbole
+      - Posições relativas entre reta e hipérbole
+      - Equações das assíntotas da hipérbole
+    - Parábola
+      - Definição, equação
+      - Posições relativas entre ponto e parábola
+      - Posições relativas entre reta e parábola
+    - Reconhecimento de cônicas a partir de sua equação geral
+  - Geometria Plana
+    - Ângulo: definição, elementos e propriedades
+    - Semelhança de triângulos
+    - Pontos notáveis do triângio
+    - Relações métricas nos triângulos (retângulos e quaisquer)
+    - Relação de Stewart
+    - Triângulos retângulos
+      - Teorema de Pitágoras
+    - Congruência de figuras planas
+    - Feixe de retas paralelas e transversais
+      - Teorema de Tales
+      - Teorema das bissetrizes internas e externas de um triângulo
+    - Quadriláteros notáveis
+    - Polígonos, polígonos regulares
+    - Circunferências, círculos e seus elementos
+    - Perímetro e área de polígonos, polígonos regulares, circunferências, círculos e seus elementos
+    - Fórmula de Heron
+    - Razão entre áreas
+    - Lugares geométricos
+    - Elipse, parábola e hipérbole
+    - Linha poligonal
+    - Inscrição e circunscrição
+    - Ângulos na circunferência
+    - Paralelismo e perpendicularidade
+  - Polinômios
+    - Função polinomial
+    - Polinômio identicamente nulo
+    - Grau de um polinômio
+    - Identidade de um polinômio
+    - Raiz de um polinômio
+    - Operações com polinômios
+    - Valor numérico de um polinômio
+    - Divisão de polinômios
+    - Teorema do Resto
+    - Teorema de D'Alembert
+    - Dispositivo de Briot-Ruffini
+    - Relação entre coeficientes e raízes
+    - Fatoração e multiplicidade de raízes
+    - Produtos notáveis
+    - Máximo divisor comum de polinômios
+  - Equações Polinomiais
+    - Teorema fundamental da álgebra
+    - Teorema da decomposição
+    - Raízes imaginárias
+    - Raízes racionais
+    - Relações de Girard
+    - Teorema de Bolzano
+
+- 🇵🇹 PORTUGUÊS ESPCEX
+  - Leitura, interpretação e análise de textos
+  - Fonética
+    - Fonemas
+    - Sílabas
+    - Tonicidade
+    - Ortoépia
+    - Prosódia
+  - Ortografia
+    - Acentuação gráfica
+    - Notações léxicas
+    - Abreviaturas
+    - Siglas e símbolos
+  - Morfologia
+    - Estrutura das palavras
+    - Formação das palavras
+      - Sufixos
+      - Prefixos
+      - Radicais gregos e latinos
+    - Origens das palavras da língua portuguesa
+    - Classificação e flexão das palavras
+      - Substantivo
+      - Artigo
+      - Adjetivo
+      - Numeral
+      - Pronome
+      - Verbo
+      - Advérbio
+      - Preposição
+      - Conjunção
+      - Interjeição
+    - Conectivos e formas variantes
+  - Semântica
+    - Teoria da Linguagem
+    - História da Língua Portuguesa
+    - Linguagem, língua, discurso e estilo
+    - Níveis de linguagem
+    - Funções da linguagem
+  - Estilística
+    - Figuras de linguagem
+    - Língua e arte literária
+  - Alterações introduzidas na ortografia oficial da língua portuguesa pelo Acordo Ortográfico da Língua Portuguesa
+  - Sintaxe
+    - Análise sintática
+      - Termos essenciais da oração
+      - Termos integrantes da oração
+      - Termos acessórios da oração
+    - Período composto
+      - Orações coordenadas
+      - Orações principais e orações subordinadas
+      - Orações subordinadas substantivas
+      - Orações subordinadas adjetivas
+      - Orações subordinadas adverbiais
+      - Orações reduzidas
+    - Estudo complementar do período composto
+    - Sintaxe de concordância
+    - Sintaxe de regência (verbal e nominal)
+    - Sintaxe de colocação
+    - Sinais de pontuação
+    - Emprego de algumas classes de palavras
+    - Emprego dos modos e dos tempos verbais
+    - Emprego do infinitivo verbal
+    - Emprego do verbo haver
+  - Literatura Brasileira
+    - Literatura e história da literatura
+    - Gêneros literários
+    - Linguagem poética
+    - Elementos da narrativa
+    - Trovadorismo
+    - Humanismo
+    - Classicismo
+    - Quinhentismo
+    - Barroco
+    - Arcadismo
+    - Romantismo – prosa e poesia
+    - Realismo/Naturalismo
+    - Parnasianismo
+    - Simbolismo
+    - Pré-Modernismo
+    - Movimentos de vanguarda europeia no Brasil
+    - Modernismo Brasileiro – prosa e poesia
+      - 1ª geração
+      - 2ª geração
+      - 3ª geração
+    - Tendências da literatura brasileira contemporânea
+
+## 🔧 PETROBRAS – Manutenção/Instrumentação
+- 📊 CONHECIMENTOS BÁSICOS (PETROBRAS)
+  - Língua Portuguesa
+    - Compreensão e interpretação de textos de gêneros variados
+    - Reconhecimento de tipos textuais: narração, descrição, dissertação
+    - Domínio da ortografia oficial
+    - Emprego das classes de palavras
+      - Substantivos, adjetivos, verbos
+      - Conjunções, preposições
+      - Pronomes, advérbios
+    - Reconhecimento e emprego das estruturas morfossintáticas do texto
+    - Relações de regência entre termos
+    - Relações de concordância entre termos
+    - Sinais de pontuação
+    - Reescritura de frases e parágrafos do texto
+  - Matemática (Básica)
+    - Teoria dos conjuntos
+    - Conjuntos numéricos
+    - Relações entre conjuntos
+    - Funções exponenciais, logarítmicas e trigonométricas
+    - Equações de 1º grau
+    - Equações polinomiais reduzidas ao 2º grau
+    - Equações exponenciais, logarítmicas e trigonométricas
+    - Análise combinatória
+      - Permutação, arranjo, combinação
+      - Eventos independentes
+    - Progressão aritmética
+    - Progressão geométrica
+    - Matrizes
+    - Determinantes
+    - Sistemas lineares
+    - Trigonometria
+    - Geometria plana
+    - Geometria espacial
+    - Geometria analítica
+      - Equação da reta, parábola e círculo
+    - Matemática financeira
+      - Capital, juros simples, juros compostos, montante
+
+- 🔬 CONHECIMENTOS ESPECÍFICOS (PETROBRAS)
+  - BLOCO I: INSTRUMENTAÇÃO BÁSICA
+    - Metrologia industrial
+      - Calibração de instrumentos
+      - Conceitos do Vocabulário Internacional de Metrologia (VIM)
+    - Válvulas de controle
+      - Pneumáticas, hidráulicas, elétricas
+      - Eletropneumáticas, eletrohidráulicas, motorizadas
+    - Acessórios
+      - Posicionadores
+      - Solenóides
+      - Indicadores de posição
+      - Filtros reguladores
+    - Simbologia da norma ISA 5.1
+    - Medição de grandezas 1
+      - Pressão
+      - Temperatura
+      - Nível
+      - Vazão
+    - Medição de grandezas 2
+      - Proximidade
+      - Posição
+      - Velocidade
+      - Aceleração
+      - Vibração
+      - Força
+      - Torque
+      - Massa
+      - Densidade
+    - Instrumentação analítica
+    - Manutenção
+      - Manutenção corretiva
+      - Manutenção preventiva
+      - Manutenção preditiva
+      - Comissionamento
+  - BLOCO II: AUTOMAÇÃO E CONTROLE
+    - Controladores lógicos programáveis (CLPs)
+    - Linguagens de programação
+      - Ladder
+      - Diagrama de blocos
+      - Texto estruturado
+    - Controle de processos
+      - Sintonia do controlador PID (proporcional-integral-derivativo)
+    - Redes industriais e protocolos de comunicação
+  - BLOCO III: ELETROELETRÔNICA
+    - Eletrônica analógica
+    - Eletrônica digital
+    - Circuitos elétricos
+    - Automação hidráulica
+    - Automação pneumática
+
+## 🗺️ ORGANIZAÇÃO EM ORDEM LÓGICA DE ESTUDO
+- FASE 1: FUNDAMENTOS (6 meses)
+  - Matemática Básica
+    - Conjuntos e operações
+    - Funções elementares
+    - Equações e inequações
+    - Geometria básica
+  - Português
+    - Interpretação de textos
+    - Morfologia básica
+    - Sintaxe inicial
+  - Física Básica
+    - Mecânica: cinemática, dinâmica
+    - Termologia: temperatura, calor
+  - Química Básica
+    - Matéria e substâncias
+    - Estrutura atômica
+    - Tabela periódica
+
+- FASE 2: INTERMEDIÁRIA (6 meses)
+  - Matemática Intermediária
+    - Trigonometria
+    - Geometria analítica
+    - Matrizes e determinantes
+    - Números complexos
+  - Física Intermediária
+    - Óptica geométrica
+    - Ondas
+    - Eletricidade básica
+    - Termodinâmica
+  - Química Intermediária
+    - Ligações químicas
+    - Funções inorgânicas
+    - Estequiometria
+    - Soluções
+  - História e Geografia Básica
+    - História do Brasil (períodos)
+    - Geografia física do Brasil
+
+- FASE 3: AVANÇADA - ESPCEX (6 meses)
+  - Matemática Avançada
+    - Análise combinatória e probabilidade
+    - Polinômios e equações polinomiais
+    - Geometria espacial
+    - Funções avançadas
+  - Física Avançada
+    - Eletromagnetismo completo
+    - Física moderna (noções)
+    - Gravitação universal
+    - Movimentos circulares
+  - Química Avançada
+    - Eletroquímica
+    - Cinética química
+    - Equilíbrio químico
+    - Química orgânica básica
+  - Humanas Avançadas
+    - Literatura brasileira completa
+    - História mundial
+    - Geografia humana e econômica
+
+- FASE 4: TÉCNICA - PETROBRAS (6 meses)
+  - Instrumentação Básica
+    - Metrologia industrial
+    - Medição de variáveis
+    - Simbologia ISA
+  - Automação Industrial
+    - CLPs e programação
+    - Controladores PID
+    - Redes industriais
+  - Eletroeletrônica
+    - Eletrônica analógica/digital
+    - Circuitos elétricos
+    - Automação pneumática/hidráulica
+  - Manutenção Industrial
+    - Tipos de manutenção
+    - Procedimentos
+    - Segurança industrial
+
+- FASE 5: INTEGRAÇÃO E REVISÃO (6 meses)
+  - Revisão Geral
+    - Tópicos mais importantes de cada matéria
+    - Conexões entre assuntos
+  - Simulados
+    - Provas anteriores ESPCEX
+    - Provas anteriores Petrobras
+    - Simulados combinados
+  - Ajustes Finais
+    - Dúvidas persistentes
+    - Estratégias de prova
+    - Controle emocional
+
+## 📚 MATERIAIS POR FASE
+- FASE 1: FUNDAMENTOS
+  - Matemática: Coleção Fundamentos da Matemática (Iezzi)
+  - Português: Gramática do Português Contemporâneo (Cunha)
+  - Física: Física Básica (Nicolau, Toledo)
+  - Química: Química Geral (Martha Reis)
+
+- FASE 2: INTERMEDIÁRIA
+  - Matemática: Matemática Elementar (Iezzi)
+  - Física: Física (Calçada, Sampaio)
+  - Química: Química (Feltre)
+  - História: História do Brasil (Boris Fausto)
+
+- FASE 3: AVANÇADA
+  - Matemática: Matemática (Paiva)
+  - Física: Tópicos de Física (Gualter, Newton, Helou)
+  - Química: Química (Usberco, Salvador)
+  - Literatura: Literatura Brasileira (Massaud Moisés)
+
+- FASE 4: TÉCNICA
+  - Instrumentação: Instrumentação Industrial (A. R. Dias)
+  - CLPs: CLP - Teoria e Aplicações (J. C. Damasceno)
+  - Manutenção: Manutenção Industrial (Márcio Tadeu)
+
+- FASE 5: REVISÃO
+  - Provas anteriores comentadas
+  - Apostilas específicas de cursinhos
+  - Material online atualizado
